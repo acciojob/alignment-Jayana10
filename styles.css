@@ -1,2 +1,24 @@
 /*  your css code here. If applicable */
+table,tr,td{
+	border:1px solid black;
+	width:100%;
+	height:15px;
+	table-layout:fixed;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+#t-image{
+	text-align:center;
+}
+#green{
+	background-color:green;
+}
+#blue{
+	background-color:blue;
+}
+
 
